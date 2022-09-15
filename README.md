@@ -55,7 +55,8 @@ Welcome to my Github Profile Page
 - [Microsoft 30 days of Learning](https://github.com/microsoft/30daysof)
 - [Microsoft PyByrt](https://github.com/microsoft/pybryt)
 - [Microsoft Azure Automatic Grading Engine](https://github.com/microsoft/AzureAutomaticGradingEngine)
-
+- [Haskelly VScode Haskel Extension](https://marketplace.visualstudio.com/items?itemName=UCL.haskelly)
+- [Project Fizzyo](https://github.com/Fizzyo)
 ---
 ---
 ## Don't Miss My Twitter Activities
