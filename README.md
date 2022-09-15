@@ -16,10 +16,10 @@ Welcome to my Github Profile Page
 
 ---
 ### About Me :
-- 🥑 I currently work as Principal Cloud Advocate Lead contributing to the advancement and adoption of Microsoft technologies among students and educators. My team is based across EMEA and US focused on AI, Powerform, Machine Learning and Data Science.
-- 🥑 I am a Honorary Associate Professor in the Software Systems Engineering Group, Department of Computer Science, University College London. He specialises in Project and Problem-based Learning.
+- :cloud: I currently work as Principal Cloud Advocate Lead contributing to the advancement and adoption of Microsoft technologies among students and educators. My team is based across EMEA and US focused on AI, Powerform, Machine Learning and Data Science.
+- :mortar_board: I am a Honorary Associate Professor in the Software Systems Engineering Group, Department of Computer Science, University College London. He specialises in Project and Problem-based Learning.
 - ✍️ I create learning contents on Data and Tech - Modern Workplace, Low-Code/No-Code Development, Data Science, Machine Learning and Artificial Intelligence
-- ⚡ I am available for speaking engagement on student empowerment
+- :loudspeaker: I am available for speaking engagement on student empowerment
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lee_stott)
 
@@ -48,6 +48,14 @@ Welcome to my Github Profile Page
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leestott&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leestott&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :house: Projects
+
+- [Microsoft Learn LTI](https://github.com/microsoft/learn-lti)
+- [Microsoft 30 days of Learning](https://github.com/microsoft/30daysof)
+- [Microsoft PyByrt](https://github.com/microsoft/pybryt)
+- [Microsoft Azure Automatic Grading Engine](https://github.com/microsoft/AzureAutomaticGradingEngine)
+
 ---
 ---
 ## Don't Miss My Twitter Activities
