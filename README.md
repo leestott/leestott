@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Cloud Advocate Manager at Microsoft, and have had the priviledge of working on a bunch of super smart educators and students utilizing Microsoft developer tools and services. 
+I'm a Cloud Advocate Manager at Microsoft, and have had the privilege of working with a bunch of super smart educators and students utilizing Microsoft developer tools and services. 
 
 I'm extremely passionate about developer productivity and collaboration, and in particular, helping educators and students showcase their developer skills and use of Microsoft technologies. I lead and contribute an amazing team of Cloud Advocates and lead a number of Open Source projects, helping share ideas and foster innovation across various teams and the communites. 
 
