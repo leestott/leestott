@@ -51,8 +51,11 @@ Welcome to my Github Profile Page
 
 ---
 ### :fire: My Stats :
+![My stats](https://github-readme-stats.vercel.app/api?username=leestott&show_icons=true&theme=nightowl)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leestott&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leestott&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leestott&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leestott&layout=compact&theme=vision-friendly-dark)
 
 ### :house: Projects
 
