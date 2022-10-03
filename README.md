@@ -21,7 +21,7 @@ Welcome to my Github Profile Page
 
 ---
 ### About Me :
-- :cloud: I currently work as Principal Cloud Advocate Lead contributing to the advancement and adoption of Microsoft technologies among students and educators. My team is based across EMEA and the US. We are focused on AI, Power Platform, Fusion Development, Machine Learning and Data Science.
+- :cloud: I currently work as Principal Cloud Advocate Manager at Microsoft, contributing to the advancement and adoption of Microsoft technologies among students and educators. My team is based across EMEA and the US. We are focused on AI, Power Platform, Fusion Development, Machine Learning and Data Science.
 - :mortar_board: I am a Honorary Associate Professor in the Software Systems Engineering Group, Department of Computer Science, University College London. He specialises in Project and Problem-based Learning.
 - ✍️ I create learning contents on Data and Tech - Modern Workplace, Low-Code/No-Code Development, Data Science, Machine Learning and Artificial Intelligence
 - :loudspeaker: I am available for speaking engagement on student empowerment
