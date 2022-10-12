@@ -48,7 +48,6 @@ Welcome to my Github Profile Page
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-
 ---
 ### :fire: My Stats :
 [![Lee Stott GitHub stats](https://github-readme-stats.vercel.app/api?username=leestott&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -57,7 +56,7 @@ Welcome to my Github Profile Page
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leestott&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
 
 ### :house: Projects
 
@@ -67,7 +66,8 @@ Welcome to my Github Profile Page
 - [Microsoft Azure Automatic Grading Engine](https://github.com/microsoft/AzureAutomaticGradingEngine)
 - [Haskelly VScode Haskel Extension](https://marketplace.visualstudio.com/items?itemName=UCL.haskelly)
 - [Project Fizzyo](https://github.com/Fizzyo)
+
 ---
----
+
 ## Don't Miss My Twitter Activities
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=lee_stott)](https://github.com/gazf/github-readme-twitter)
