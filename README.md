@@ -48,7 +48,9 @@ Welcome to my Github Profile Page
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
 ---
+
 ### :fire: My Stats :
 
 [![Lee Stott GitHub stats](https://github-readme-stats.vercel.app/api?username=leestott&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
