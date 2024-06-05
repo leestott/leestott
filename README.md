@@ -63,14 +63,11 @@ Welcome to my Github Profile Page
 
 ### :house: Projects
 
-- [Microsoft Learn LTI](https://github.com/microsoft/learn-lti)
-- [Microsoft 30 days of Learning](https://github.com/microsoft/30daysof)
+- [Microsoft Open Source Curricula](https://aka.ms/curricula)
+- [Microsoft Phi-3Cookbook](https://github.com/microsoft/phi-3cookbook)
 - [Microsoft PyByrt](https://github.com/microsoft/pybryt)
 - [Microsoft Azure Automatic Grading Engine](https://github.com/microsoft/AzureAutomaticGradingEngine)
 - [Haskelly VScode Haskel Extension](https://marketplace.visualstudio.com/items?itemName=UCL.haskelly)
 - [Project Fizzyo](https://github.com/Fizzyo)
 
 ---
-
-## Don't Miss My Twitter Activities
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=lee_stott)](https://github.com/gazf/github-readme-twitter)
