@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a Cloud Advocate Manager at Microsoft, and have had the privilege of working with a bunch of super smart educators and students utilizing Microsoft developer tools and services. 
+Technical Lead in Microsoft’s Core AI Advocacy team, focused on empowering developers through high‑quality content, open‑source curriculum, and technically accurate guidance. I help ensure Microsoft’s AI principles are reflected across our global developer ecosystem, supporting responsible and innovative AI adoption. Part of the unified Microsoft × GitHub Developer Advocacy mission to put developers first, I work across teams to strengthen content strategy, elevate technical clarity, and create cohesive experiences that help developers succeed with AI. Passionate about bridging strategy with hands‑on depth, and building communities where innovation and responsible AI thrive.
 
-I'm extremely passionate about developer productivity and collaboration, and in particular, helping educators and students showcase their developer skills and use of Microsoft technologies. I lead and contribute an amazing team of Cloud Advocates and lead a number of Open Source projects, helping share ideas and foster innovation across various teams and the communites. 
+I'm extremely passionate about developer productivity and collaboration, and in particular, helping educators and students showcase their developer skills and use of Microsoft technologies. I lead a number of Open Source projects, helping share ideas and foster innovation across various teams and the communites. 
 
-I 💖 Visual Studio Code and m365 and in particular, there extensibility ecosystem of extensions and connectors. As a result, I have a number of projects looking at extensions and connectors that allow me to explore new ideas in academic developer collaboration and knowledge sharing:
+I 💖 Visual Studio Code and m365 and in particular, there extensibility ecosystem of extensions and connectors especially the new Copilot SDK and WorkIQ. As a result, I have a number of projects looking at extensions and connectors that allow me to explore new ideas in academic developer collaboration and knowledge sharing:
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/leestott">
@@ -21,9 +21,9 @@ Welcome to my Github Profile Page
 
 ---
 ### About Me :
-- :cloud: Principal Cloud Advocate Manager at Microsoft, contributing to the advancement and adoption of Microsoft technologies among students and educators. My team is based across EMEA and the US. We are focused on AI, Power Platform, Fusion Development, Machine Learning and Data Science.
+- :cloud: Principal Cloud Advocate at Microsoft, 
 - :mortar_board: I am a Honorary Associate Professor in the Software Systems Engineering Group, Department of Computer Science, University College London. He specialises in Project and Problem-based Learning.
-- ✍️ I create learning contents on Data and Tech - Modern Workplace, Low-Code/No-Code Development, Data Science, Machine Learning and Artificial Intelligence
+- ✍️ I create learning contents on Data, Data Science, Machine Learning and Artificial Intelligence
 - :loudspeaker: I am available for speaking engagement on student empowerment
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lee_stott)
