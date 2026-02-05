@@ -4,7 +4,7 @@ I'm a Technical Lead in Microsoft’s Core AI Advocacy team, focused on empoweri
 
 I'm extremely passionate about developer productivity and collaboration, and in particular, helping educators and students showcase their developer skills and use of Microsoft technologies. I lead a number of Open Source projects, helping share ideas and foster innovation across various teams and the communites. 
 
-I 💖 Visual Studio Code and m365 and in particular, there extensibility ecosystem of extensions and connectors especially the new Copilot SDK and WorkIQ. As a result, I have a number of projects looking at extensions and connectors that allow me to explore new ideas in academic developer collaboration and knowledge sharing:
+I 💖 Machine Learning, Data Science and AI, and tooling Visual Studio Code and m365 and in particular, plus there extensibility ecosystem of extensions and connectors especially the new Copilot SDK and WorkIQ. As a result, I have a number of projects looking at extensions and connectors that allow me to explore new ideas in academic developer collaboration and knowledge sharing:
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/leestott">
