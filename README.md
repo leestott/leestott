@@ -56,8 +56,6 @@ Welcome to my Github Profile Page
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leestott&theme=cobalt)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leestott&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### :house: Projects
