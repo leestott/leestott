@@ -52,8 +52,7 @@ Welcome to my Github Profile Page
 ---
 
 ### :fire: My Stats :
-
-[![Lee Stott GitHub stats](https://github-readme-stats.vercel.app/api?username=leestott&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lee Stott GitHub Stats](https://github-stats-extended.vercel.app/api?username=leestott)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leestott&theme=cobalt)](https://git.io/streak-stats)
 
